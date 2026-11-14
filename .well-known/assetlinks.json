@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.pasarhanakau.mobile",
+      "sha256_cert_fingerprints": [
+        "13:8A:D3:68:2C:28:C4:58:46:F7:1B:4E:ED:88:82:D3:92:87:0C:1D:BB:C6:2D:16:2A:3F:C7:31:20:E9:DB:7A"
+      ]
+    }
+  }
+]
